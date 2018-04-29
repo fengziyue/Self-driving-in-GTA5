@@ -2,7 +2,7 @@
 Using Alex_Net to implement self-driving in GTA5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEqNOkhJBT8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-[![Demo CountPages alpha](http://share.gifyoutube.com/kEqNOkhJBT8.gif)](https://www.youtube.com/watch?v=kEqNOkhJBT8)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/kEqNOkhJBT8)
 
 ## Requirements:
 #### numpy
