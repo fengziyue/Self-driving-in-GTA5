@@ -5,12 +5,12 @@ Using Alex_Net to implement self-driving in GTA5
 [![Demo CountPages alpha](http://share.gifyoutube.com/kEqNOkhJBT8.gif)](https://www.youtube.com/watch?v=kEqNOkhJBT8)
 
 ## Requirements:
-numpy
-pandas
-tensorflow
-opencv-python
-pypiwin32
-tflearn
+#### numpy
+#### pandas
+#### tensorflow
+#### opencv-python
+#### pypiwin32
+#### tflearn
 
 ## 大致思路
 将GTA5 以800x600 分辨率窗口模式运行，放在桌面左上角。用键盘控制车辆行驶，程序将记录下游戏画面和玩家按键。图片经过处理后以“左按键”或“右按键”作为标签送入Alex Net训练。
